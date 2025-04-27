@@ -20,7 +20,6 @@ Dataset: https://data.mendeley.com/datasets/xs9fbf2j6r/1
 - **Simplified Food Diversity Questionnaire**: Based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of unprocessed foods.
 - **Nova Score for the Consumption of UPFs**: The Nova Score (Costa et al., 2021) is based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of ultraprocessed foods (UPFs).
 
-
 ---
 
 ### Key Concepts
