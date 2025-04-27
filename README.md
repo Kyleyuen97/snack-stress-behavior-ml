@@ -43,23 +43,17 @@ The clustering revealed **distinct behavioral groups** among the students:
 A **significant portion** of students exhibited **high stress** levels.
 
 However, their coping mechanisms with food varied:
-
 - Some students under high stress **did not engage heavily** in negative emotional eating (Clusters 1–4, 11–15).
-
 - Others showed **moderate to high levels** of negative emotional eating alongside stress (Clusters 16–30).
-
 - **Cluster 5** was notable as a transitional group, where students had **high stress** and **moderate** snacking behavior.
 
-- This suggests that **not all students use food as a primary coping strategy** for stress, but for those who do, there is a clear association between stress levels and increased negative emotional eating.
+This suggests that **not all students use food as a primary coping strategy** for stress, but for those who do, there is a clear association between stress levels and increased negative emotional eating.
 
 ### Conclusions
-Distinct behavioral profiles exist among students relating to stress and food behaviors.
-
-High stress alone does not necessarily predict negative snacking, indicating individual differences in coping mechanisms.
+**Distinct behavioral profiles** exist among students relating to stress and food behaviors.
+**High stress alone does not necessarily predict negative snacking**, indicating individual differences in coping mechanisms.
 
 These insights can be useful for designing targeted interventions:
-
-Stress management programs could be paired with nutrition education.
-
-Tailored support could be provided to students most at risk of stress-related emotional eating.
+- Stress management programs could be paired with nutrition education.
+- Tailored support could be provided to students most at risk of stress-related emotional eating.
 
