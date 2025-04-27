@@ -1,6 +1,6 @@
 ### Snack Consumption and Stress Behavior - ML Project
 
-The dataset includes data collected on NYU students, tracking the consumption rate of snacks relative to stress simulated by computer tests.
+The original experiment conducted studies involving NYU students, tracking the consumption rate of snacks relative to stress simulated by computer tests.
 
 #### Data Overview
 
