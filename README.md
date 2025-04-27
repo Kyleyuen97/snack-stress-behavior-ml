@@ -1,11 +1,12 @@
 ### Snack Consumption and Stress Behavior - ML Project
 
-The original experiment conducted studies involving NYU students, tracking the consumption rate of snacks relative to stress simulated by computer tests.
+In the original experiment I administered studies at NYU Stern's Center for Behavioral Research, tracking the consumption rate of snacks relative to stress simulated by computer tests.
 
 Students were informed that better performance on the test would marginally increase participation scores, to draw their focus to scoring well, and remove the Hawthorne Effect* on the actual item being measured - snack consumption rate.
 
-As this dataset is not publically available, I utilized a similar Dataset on more recent Data by the NIH and performed similar hierarchical clustering on their dataset.
+As this dataset is not available for public consumption, I utilized a similar Dataset on more recent Data by the NIH regarding COVID-19 pandemic psychological stress and emotional eating and performed my modelling work on their dataset.
 
+Study: https://pubmed.ncbi.nlm.nih.gov/25682365/
 
 #### Data Overview
 
@@ -18,6 +19,8 @@ As this dataset is not publically available, I utilized a similar Dataset on mor
 - **Simplified Food Diversity Questionnaire**: Based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of unprocessed foods.
 - **Nova Score for the Consumption of UPFs**: The Nova Score (Costa et al., 2021) is based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of ultraprocessed foods (UPFs).
 
+Dataset can be found here:
+https://data.mendeley.com/datasets/xs9fbf2j6r/1
 ---
 
 ### Key Concepts
