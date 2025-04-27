@@ -7,6 +7,7 @@ Students were informed that better performance on the test would marginally incr
 As this dataset is not available for public consumption, I utilized a similar Dataset on more recent Data by the NIH regarding COVID-19 pandemic psychological stress and emotional eating and performed my modelling work on their dataset.
 
 Study: https://pubmed.ncbi.nlm.nih.gov/25682365/
+Dataset: https://data.mendeley.com/datasets/xs9fbf2j6r/1
 
 #### Data Overview
 
@@ -19,8 +20,7 @@ Study: https://pubmed.ncbi.nlm.nih.gov/25682365/
 - **Simplified Food Diversity Questionnaire**: Based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of unprocessed foods.
 - **Nova Score for the Consumption of UPFs**: The Nova Score (Costa et al., 2021) is based on the Nova classification system (Monteiro et al., 2016) and evaluates the consumption of ultraprocessed foods (UPFs).
 
-Dataset can be found here:
-https://data.mendeley.com/datasets/xs9fbf2j6r/1
+
 ---
 
 ### Key Concepts
