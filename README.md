@@ -2,6 +2,11 @@
 
 The original experiment conducted studies involving NYU students, tracking the consumption rate of snacks relative to stress simulated by computer tests.
 
+Students were informed that better performance on the test would marginally increase participation scores, to draw their focus to scoring well, and remove the Hawthorne Effect* on the actual item being measured - snack consumption rate.
+
+As this dataset is not publically available, I utilized a similar Dataset on more recent Data by the NIH and performed similar hierarchical clustering on their dataset.
+
+
 #### Data Overview
 
 - **Subjects**: The test subjects.
@@ -19,6 +24,4 @@ The original experiment conducted studies involving NYU students, tracking the c
 
 - **Hawthorne Effect** (also known as the "Observer Effect"): Testers may alter their original or candid behavior if they know they are being watched. In this experiment, students were informed that their performance would increase their participation score to minimize this effect.
 
-### Hierarchical Clustering
 
-- You performed hierarchical clustering on the NIH dataset to examine how these variables relate to snack consumption behavior in stressed individuals.
