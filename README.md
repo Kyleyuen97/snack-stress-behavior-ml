@@ -51,7 +51,9 @@ This suggests that **not all students use food as a primary coping strategy** fo
 
 ### Conclusions
 
-**High stress alone does not necessarily predict negative snacking**, indicating individual differences in coping mechanisms.**Distinct behavioral profiles** exist among students relating to stress and food behaviors.
+**High stress alone does not necessarily predict negative snacking**, indicating individual differences in coping mechanisms.
+
+**Distinct behavioral profiles** exist among students relating to stress and food behaviors.
 
 These insights can be useful for designing targeted interventions:
 - Stress management programs could be paired with nutrition education.
